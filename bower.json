@@ -1,0 +1,17 @@
+{
+    "name": "unna-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Omnibus-Type"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/unna-bower.git"
+    },
+    "description": "Unna font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
